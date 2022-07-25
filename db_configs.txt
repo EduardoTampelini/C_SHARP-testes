@@ -1,0 +1,6 @@
+mysql://bc95290929c609:e7b60d15@us-cdbr-east-05.cleardb.net/heroku_dd4405b2e144191?reconnect=true
+
+host:us-cdbr-east-05.cleardb.net
+user: bc95290929c609
+password:e7b60d15
+db_name:heroku_dd4405b2e144191
